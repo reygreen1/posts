@@ -5,8 +5,6 @@ tags: [WebGL, three.js]
 description: 
 ---
 
-![WebGL编程](http://7tt058.com1.z0.glb.clouddn.com/webgl.jpg)
-
 上篇文章简单介绍了WebGL的一些相关概念、现状以及工作原理，没有涉及到具体编码，本文将使用WebGL的相关技术来实现一个简单的效果示例，从而让大家了解WebGL编程的基本流程和关键操作。最后，还介绍了一些WebGL的库和框架，恰当的使用这些第三方框架，可以大大提高我们的工作效率。
 
 <!--more-->

@@ -5,8 +5,6 @@ tags: [WebGL]
 description: 
 ---
 
-![HTML5和WebGL](http://7tt058.com1.z0.glb.clouddn.com/webgl-html5.png)
-
 ###先来看看WebGL的官方介绍：
 
 >WebGL - OpenGL ES 2.0 for the Web

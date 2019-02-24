@@ -5,8 +5,6 @@ tags: [工具,Visual Studio Code]
 
 ---
 
-![Visual Studio Code](http://7tt058.com1.z0.glb.clouddn.com/vscode.png)
-
 微软在今年的Build大会上发布了一款新型的代码编辑器Visual Studio Code，它一出现就吸引了大多数开发者的关注，尤其是前端开发人员。
 
 >Build and debug modern web and cloud applications. Code is free and available on your favorite platform - Linux, Mac OSX, and Windows.

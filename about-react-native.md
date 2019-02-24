@@ -4,8 +4,6 @@ categories: 移动端开发
 tags: [JavaScript, React, 移动端]
 ---
 
-![React Native](http://7tt058.com1.z0.glb.clouddn.com/reactnative.png)
-
 Facebook在今年的React.js Conf 2015上推出了React Native，而这已经成为目前最热门的讨论话题。
 
 我们知道，传统的原生开发是需要一定门槛的，要转行为原生开发其实是比较困难的。这就导致了市场需求大，而相关开发人员不能满足的问题。相比较而言，web开发的入门就比较容易，相关的开发者也就比较多。如果能让一部分web开发者直接开发原生应用，这将是多么美好的一件事情啊，而这也是不少框架出现的直接原因。
