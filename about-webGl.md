@@ -48,7 +48,7 @@ OpenGL ES可以看做是OpenGL的一个子集，专注于嵌入式设备。OpenG
 
 WebGL、OpenGL和OpenGL ES 2.0的相互关系可以参考下图：
 
-![OpenGL相关生态体系](http://7tt058.com1.z0.glb.clouddn.com/OpenGL-related-Ecosystem.jpg)
+![OpenGL相关生态体系](https://b-i-1258690965.cos.ap-beijing.myqcloud.com/blog/OpenGL-related-Ecosystem.jpg)
 
 从图中可以看出，OpenGL ES是OpenGL的子集，WebGL同时在OpenGL和OpenGL ES 2.0上基础上构建出了JavaScript API，依托于HTML5，在浏览器上实现了无插件依赖的3D技术。
 

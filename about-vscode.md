@@ -23,7 +23,7 @@ tags: [工具,Visual Studio Code]
 
 不得不说这真是一款颜值颇高的编辑器，启动后的给人一种非常舒服的感觉。
 
-![Code界面](http://7tt058.com1.z0.glb.clouddn.com/vscode-layout.png)
+![Code界面](https://b-i-1258690965.cos.ap-beijing.myqcloud.com/blog/vscode-layout.png)
 
 左侧除了有在Sublime中掺假的目录结构，还多了一个侧边栏的导航，功能包含了搜索、git和debug的功能。在不同的导航界面下，目录面板会有不同的功能设置。
 
@@ -35,13 +35,13 @@ tags: [工具,Visual Studio Code]
 
 当鼠标放在项目根目录上时，会出现四个操作按钮，如下图所示：
 
-![](http://7tt058.com1.z0.glb.clouddn.com/file-opertion.png)
+![](https://b-i-1258690965.cos.ap-beijing.myqcloud.com/blog/file-opertion.png)
 
 可以新建文件、文件夹和执行目录折叠的操作等，同时，右键新建操作更加接近真实的创建场景，如果你使用过Sublime的相关新建操作，就会发现Code的方式还是更容易接受。
 
 另外，当前编辑窗口的右上角多了一个Split Editor的按钮，用来将当前窗口快速分割为左右两个，类似“分身”。
 
- ![窗口分身](http://7tt058.com1.z0.glb.clouddn.com/file-splite.png)
+ ![窗口分身](https://b-i-1258690965.cos.ap-beijing.myqcloud.com/blog/file-splite.png)
  
 当然，Sublime也可以完成相同的功能，而且还可以上下分割，但是需要快捷键操作或者选择菜单，Code这里做了按钮，简单直接。
 
@@ -51,7 +51,7 @@ tags: [工具,Visual Studio Code]
 
 Sublime的智能提示是针对当前文件上下文的，试试Code的提示，简直要逆天了。
 
-![智能提示](http://7tt058.com1.z0.glb.clouddn.com/code-suggest.png)
+![智能提示](https://b-i-1258690965.cos.ap-beijing.myqcloud.com/blog/code-suggest.png)
 
 HTML、JS、Angular的补全，个人感觉非常强大。如果要实现上图node相关的提示，则需要在文件开头添加：
 
@@ -69,11 +69,11 @@ debug的选项让人眼前一亮，最近又正好在写node模块，如果能�
 
 但是，要想使用调试功能，必须先安装[Mono](http://www.mono-project.com/download/)，不然连node的调试都进行不了。更悲催的是，VSCode的安装包有65M左右，但是Mono的安装文件居然要200多M，安装完后占据600多M空间。
 
-![需要先安装Mono](http://7tt058.com1.z0.glb.clouddn.com/require-mono.png)
+![需要先安装Mono](https://b-i-1258690965.cos.ap-beijing.myqcloud.com/blog/require-mono.png)
 
 完成安装后，配置好加载项的相关配置，调试界面还是非常让人惊艳的：
 
-![Code调试node代码](http://7tt058.com1.z0.glb.clouddn.com/code-debug.png)
+![Code调试node代码](https://b-i-1258690965.cos.ap-beijing.myqcloud.com/blog/code-debug.png)
 
 ### 性能
 

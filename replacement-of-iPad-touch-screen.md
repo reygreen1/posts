@@ -35,15 +35,15 @@ tags: [iPad4, 换屏]
 
 ###1. 需要换屏的 iPad4
 
-![换屏前](http://7tt058.com1.z0.glb.clouddn.com/换屏前.jpg)
+![换屏前](https://b-i-1258690965.cos.ap-beijing.myqcloud.com/blog/换屏前.jpg)
 
 ###2. 原装触摸屏（可以去某宝淘到，价格不超过200RMB）
 
-![原装触摸屏](http://7tt058.com1.z0.glb.clouddn.com/原装触摸屏.jpg)
+![原装触摸屏](https://b-i-1258690965.cos.ap-beijing.myqcloud.com/blog/原装触摸屏.jpg)
 
 ###3. 换屏工具（翘刀、翘片、镊子、绝缘撬棒、螺丝刀等）
 
-![准备工具](http://7tt058.com1.z0.glb.clouddn.com/准备工具.jpg)
+![准备工具](https://b-i-1258690965.cos.ap-beijing.myqcloud.com/blog/准备工具.jpg)
 
 ###4.吹风机
 
@@ -61,7 +61,7 @@ tags: [iPad4, 换屏]
 
 经过上面的操作步骤，触摸屏就跟下面的设备分离了，小心将屏幕翻转过来（注意不要扯断*触摸屏的排线*和 *HOME 键排线*）。如下图所示：
 
-![卸下触摸屏](http://7tt058.com1.z0.glb.clouddn.com/卸下触摸屏.jpg)
+![卸下触摸屏](https://b-i-1258690965.cos.ap-beijing.myqcloud.com/blog/卸下触摸屏.jpg)
 
 ##更换触摸屏
 
@@ -95,7 +95,7 @@ tags: [iPad4, 换屏]
 
 整个换屏的过程到这里就结束了，下面是最后的成果：
 
-![更换完毕](http://7tt058.com1.z0.glb.clouddn.com/更换完毕.jpg)
+![更换完毕](https://b-i-1258690965.cos.ap-beijing.myqcloud.com/blog/更换完毕.jpg)
 
 ##总结
 
