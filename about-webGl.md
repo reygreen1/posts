@@ -5,7 +5,7 @@ tags: [WebGL]
 description: 
 ---
 
-###先来看看WebGL的官方介绍：
+### 先来看看WebGL的官方介绍：
 
 >WebGL - OpenGL ES 2.0 for the Web
 
@@ -23,7 +23,7 @@ WebGL为web带来了无插件化的3D技术，这种实现非常适合浏览器�
 
 <!--more-->
 
-##WebGL是什么？
+## WebGL是什么？
 
 WebGL是一种3D绘图标准，它提供了一套JS版本的API接口，通过调用这些接口可以直接使用OpenGL ES 2.0的功能，从而实现强大的3D绘图效果。
 
@@ -33,7 +33,7 @@ WebGL在HTML5中使用Canvas作为宿主，能够在渲染的过程中使用硬�
 
 目前对WebGL提供支持的浏览器有[Firefox 4](https://developer.mozilla.org/en-US/docs/Firefox_4_for_developers)+ 、[Google Chrome](http://www.google.com/chrome/) 9+ 、[Opera](http://www.opera.com/) 12+和[Safari](http://www.apple.com.cn/safari/) 5.1+。
 
-##3D图形API
+## 3D图形API
 
 我们平时了解较多的3D图形API主要有OpenGL、DirectX。
 
@@ -44,7 +44,7 @@ DirectX是微软创建的一系列为多媒体以及游戏开发服务的应用�
 OpenGL ES可以看做是OpenGL的一个子集，专注于嵌入式设备。OpenGL ES 2.0是其中一个主要版本，它采用了可编程的渲染管线，渲染能力有了非常大的提高，它要求设备必须有相应的GPU硬件支持，不支持软件模拟实现。
 
 
-##WebGL、OpenGL与OpenGL ES 2.0
+## WebGL、OpenGL与OpenGL ES 2.0
 
 WebGL、OpenGL和OpenGL ES 2.0的相互关系可以参考下图：
 
@@ -56,7 +56,7 @@ WebGL是JavaScript的API接口，对于web开发人员来说更加友好，使�
 
 OpenGL相对来说，门槛比较高，涉及的专业知识很多，如着色语言、投影变换、光照、纹理等，需要花费比较多的时间去学习整理。
 
-##OpenGL ES 3.0
+## OpenGL ES 3.0
 
 Khronos Group在SIGGRAPH 2012专业图形大会上宣布了新一代移动3D图形标准规范“OpenGL ES 3.0”。
 
@@ -69,7 +69,7 @@ Android对于OpenGL ES 3.0的相关说明：
 同时，它还声明，设备必须需要设备生产商来实现相关图形管线，也就是说如果设备生产商不实现相关支持，即使是4.3或者更高版本的系统也无法运行OpenGL ES 3.0的API。
 
 
-##参考
+## 参考
 
 1. [WebGL - OpenGL ES 2.0 for the Web](http://cn.khronos.org/webgl)
 2. [WebGL](https://developer.mozilla.org/zh-CN/docs/Web/WebGL)
